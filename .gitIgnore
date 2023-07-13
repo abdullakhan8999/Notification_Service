@@ -1,0 +1,4 @@
+node_modules/
+package-lock.json
+Notifier/test.js
+.vscode/
